@@ -21,8 +21,6 @@ My goal is to leverage my problem-solving skills, ability to deliver scalable so
 
 ## 💡 Hard Skills
 
----
-
 ### 👨‍💻 Programming languages
 
 ![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0099D6?style=for-the-badge&logo=sap&logoColor=white)
@@ -30,7 +28,16 @@ My goal is to leverage my problem-solving skills, ability to deliver scalable so
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Connect with Me  
+### ⚙️ Frameworks backend
+
+![ABAP RAP](https://img.shields.io/badge/ABAP%20RAP-0099D6?style=for-the-badge&logo=sap&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008080?style=for-the-badge&logo=go&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+## Connect with Me  
 Feel free to reach out if you share similar interests or just want to say hi!  
 Let's build something amazing together! 🚀  
 <!--
