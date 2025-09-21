@@ -1,11 +1,21 @@
-## Hi there! 👋  
+# Hi there!, I'm Andres Ardila 👋  
 
 ---
 
-## Welcome to my GitHub page!.
+## Find me around the web 🌎:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ardiladev33)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-ardila/)
+
+---
+
+## About me 👨‍💼:
+
+Software Developer with over 6 years of experience in designing, developing, and implementing innovative technological solutions. Highly skilled in web and enterprise application development, with strong proficiency in programming languages such as ABAP, Go, TypeScript and JavaScript.
+
+Experienced in all stages of the Software Development Life Cycle (SDLC), from requirements analysis to final delivery and post-implementation support. Proficient in managing both relational and non-relational databases, including SAP HANA, PostgreSQL, MySQL and MongoDB, as well as version control tools like Git.
+
+My goal is to leverage my problem-solving skills, ability to deliver scalable solutions, and effective communication with clients and technical teams to contribute to the company’s success. Passionate about innovation, continuous improvement, and developing software that positively impacts business operations.
 
 ---
 
