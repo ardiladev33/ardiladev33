@@ -1,16 +1,11 @@
 ## Hi there! 👋  
 
-I'm **Alvaro Andres Ardila Sandoval**, a passionate student specializing in **Cloud Application and Services Development**.  
+---
 
-## About Me  
-🎓 **Institution**: Servicio Nacional de Aprendizaje de Colombia (SENA)  
-💻 **Interests**:  
-- Web Development  
-- Programming  
-- Technology
-- GitHub  
+## Welcome to my GitHub page!.
 
-I’m constantly learning and exploring new ways to enhance my skills in modern web technologies and cloud services.  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ardiladev33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-ardila/)
 
 ---
 
