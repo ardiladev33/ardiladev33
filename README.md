@@ -54,6 +54,11 @@ My goal is to leverage my problem-solving skills, ability to deliver scalable so
 ![Prisma](https://img.shields.io/badge/Prisma-39A3A2?style=for-the-badge&logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-EA4523?style=for-the-badge&logo=typeorm&logoColor=white)
 
+### 🔍 Testing
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21334?style=for-the-badge&logo=jest&logoColor=white)
+
 ### ☁️ DevOps y PaaS
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
