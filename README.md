@@ -85,11 +85,11 @@ My goal is to leverage my problem-solving skills, ability to deliver scalable so
 
 ### 🤝 Soft Skills
 
-![Comunicación asertiva](https://img.shields.io/badge/Comunicación%20asertiva-5982D1?style=for-the-badge)
-![Trabajo en equipo](https://img.shields.io/badge/Trabajo%20en%20equipo-1C71B7?style=for-the-badge)
-![Análisis de requerimientos](https://img.shields.io/badge/Análisis%20de%20requerimientos-4A4A4A?style=for-the-badge)
-![Solución de problemas](https://img.shields.io/badge/Solución%20de%20problemas-267B98?style=for-the-badge)
-![Mejora continua](https://img.shields.io/badge/Mejora%20continua-36A64F?style=for-the-badge)
+![Assertive Communication](https://img.shields.io/badge/Assertive%20Communication-5982D1?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-1C71B7?style=for-the-badge)
+![Requirements Analysis](https://img.shields.io/badge/Requirements%20Analysis-4A4A4A?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-267B98?style=for-the-badge)
+![Continuous Improvement](https://img.shields.io/badge/Continuous%20Improvement-36A64F?style=for-the-badge)
 
 ---
 
