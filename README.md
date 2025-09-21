@@ -21,6 +21,13 @@ My goal is to leverage my problem-solving skills, ability to deliver scalable so
 
 ## 💡 Hard Skills
 
+### ⭐ Basics
+
+![SQL](https://img.shields.io/badge/SQL-032E41?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ### 👨‍💻 Programming languages
 
 ![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0099D6?style=for-the-badge&logo=sap&logoColor=white)
