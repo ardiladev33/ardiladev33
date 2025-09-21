@@ -48,6 +48,12 @@ My goal is to leverage my problem-solving skills, ability to deliver scalable so
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### 🔗 Object Relational Mapping ORM
+
+![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-39A3A2?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-EA4523?style=for-the-badge&logo=typeorm&logoColor=white)
+
 ### ☁️ DevOps y PaaS
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
