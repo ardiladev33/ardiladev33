@@ -11,7 +11,7 @@
 
 ## 👨‍💼 About me
 
-Software Developer with over 6 years of experience in designing, developing, and implementing innovative technological solutions. Highly skilled in web and enterprise application development, with strong proficiency in programming languages such as ABAP, Go, TypeScript and JavaScript.
+Software Developer with over 5 years of experience in designing, developing, and implementing innovative technological solutions. Highly skilled in web and enterprise application development, with strong proficiency in programming languages such as ABAP, Go, TypeScript and JavaScript.
 
 Experienced in all stages of the Software Development Life Cycle (SDLC), from requirements analysis to final delivery and post-implementation support. Proficient in managing both relational and non-relational databases, including SAP HANA, PostgreSQL, MySQL and MongoDB, as well as version control tools like Git.
 
